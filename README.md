@@ -269,7 +269,7 @@ p.note { display: none; }
 <a href="20261016_00004.jpeg" target="_blank"><img src="20261016_00004.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261016_00005.jpeg" target="_blank"><img src="20261016_00005.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">道の駅もてぎまで足を伸ばしました<br>東京から下道3時間走ってきてる黒のカワサキ(後ろのおじさん)が居て、バイク談義に花を咲かせました</span></h2>
+<h2><span class="yellow">道の駅もてぎまで足を伸ばしました<br>東京から下道3時間走ってきた黒のカワサキ(ライダーは後ろのおじさん)が居て、バイク談義に花を咲かせました</span></h2>
 <a href="20261016_00006.jpeg" target="_blank"><img src="20261016_00006.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">平日の木曜にしてはそこそこの人出</span></h2>
